@@ -1,1 +1,1 @@
-# Modele---klasyfikacyjne
+# Modele-klasyfikacyjne
